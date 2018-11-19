@@ -1,0 +1,22 @@
+.elvin {
+  text-align: center;
+  font-size: 30px;
+}
+
+.emin {
+  text-align: center;
+  padding: 0 392px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  display: block;
+  text-align: center;
+}
+ul li {
+  display: inline-block;
+  margin: 50px;
+}
